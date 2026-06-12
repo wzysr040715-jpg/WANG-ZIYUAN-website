@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Project — WANG ZIYUAN</title>
+</head>
+
+<body>
+  <div class="custom-cursor"></div>
+
+  <nav id="navbar">
+    <div class="logo">WANG ZIYUAN</div>
+    <ul>
+      <li><a href="index.html#about">About</a></li>
+      <li><a href="index.html#projects">Projects</a></li>
+    </ul>
+  </nav>
+
+  <!--
+    이 파일은 모든 프로젝트가 공유하는 껍데기입니다.
+    project.js 가 URL의 ?id= 값을 읽고
+    projects.json 에서 해당 데이터를 찾아 아래 슬롯들을 채웁니다.
+  -->
+  <main id="project-detail">
+
+    <!-- 뒤로가기 -->
+    <a href="index.html#projects" class="back-link">← 전체 프로젝트</a>
+
+    <!-- 슬롯: project.js 가 채워줍니다 -->
+    <h1 id="detail-title"></h1>
+    <p id="detail-role"></p>
+
+    <div id="detail-images"></div>
+
+    <p id="detail-description"></p>
+
+  </main>
+
+  <footer id="contact">
+    <h2>Let's Work Together</h2>
+    <p>새로운 프로젝트나 협업 문의는 언제나 환영합니다.</p>
+    <a href="mailto:email@university.ac.kr" class="contact-btn">이메일 보내기</a>
+    <p>© 2026. All rights reserved.</p>
+  </footer>
+
+  <script src="project.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "project001",
+    "title": "다리 여행",
+    "thumbnail": "images/project1.jpg",
+    "role": "100%",
+    "featured": true,
+    "detailImages": [
+      "images/project1-01.jpg",
+      "images/project1-02.jpg"
+      
+      
+    ],
+    "description": "다리 풍경 사진."
+  },
+  {
+    "id": "project002",
+    "title": "좋아하는 가수의 콘서트 보기",
+    "thumbnail": "images/project2.jpg",
+    "role": "100%",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project2.jpg",
+      "images/imagesdetail-project02.jpg",
+      "images/imagesdetail-project002.jpg"
+    ],
+    "description": "설지겸의 콘서트 무대 사진."
+  },
+  {
+    "id": "project003",
+    "title": "체크인 벽",
+    "thumbnail": "images/project3.jpg",
+    "role": "100%",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project3.jpg",
+      "images/imagesdetail-project03.jpg",
+      "images/imagesdetail-project003.jpg"
+    ],
+    "description": "나는 좋아하는 체크인 장소의 풍경을 좋아한다."
+  },
+  {
+    "id": "project004",
+    "title": "저희의 자체 미디어",
+    "thumbnail": "images/project4.jpg",
+    "role": "역할 / 기여도를 작성하세요",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project4.jpg",
+      "images/imagesdetail-project04.jpg",
+      "images/imagesdetail-project004.jpg"
+    ],
+    "description": "저희 소셜 플랫품"
+  },
+  {
+    "id": "project05",
+    "title": "중국 슈퍼스타의 콘서트를 보았다",
+    "thumbnail": "images/project5.jpg",
+    "role": "100%",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project5.jpg",
+      "images/imagesdetail-project05.jpg",
+      "images/imagesdetail-project005.jpg"
+    ],
+    "description": "콘서트 무대 사진"
+  },
+  {
+    "id": "project06",
+    "title": "막내 여동생",
+    "thumbnail": "images/project6.jpg",
+    "role": "100%",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project6.jpg",
+      "images/imagesdetail-project06.jpg",
+      "images/imagesdetail-project006.jpg"
+    ],
+    "description": "작은 언니의 예쁜 사진"
+  },
+  {
+    "id": "project07",
+    "title": "성수동 음식",
+    "thumbnail": "images/project7.jpg",
+    "role": "100",
+    "featured": false,
+    "detailImages": [
+      "images/imagesdetail-project7.jpg",
+      "images/imagesdetail-project07.jpg",
+      "images/imagesdetail-project007.jpg"
+    ],
+    "description": "먹은 음식 사진"
+  }
+]
